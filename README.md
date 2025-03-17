@@ -35,7 +35,7 @@ We've added a setup script to make getting started easier:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/QuackBrowser.git
+git clone https://github.com/likhonsheikh54/QuackBrowser.git
 cd QuackBrowser
 
 # Run the setup script
@@ -53,7 +53,7 @@ If you prefer to set up manually:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/QuackBrowser.git
+git clone https://github.com/likhonsheikh54/QuackBrowser.git
 cd QuackBrowser
 
 # Install dependencies
